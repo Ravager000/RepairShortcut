@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "title": "Repair Shortcut",
   "author": "Ravager000",
-  "homepage": "https://forums.factorio.com/",
+  "homepage": "https://github.com/Ravager000/RepairShortcut",
   "description": "Infinite repair pack spawnable using shortcut \n\n Slitly faster than normal repairpack.",
   "factorio_version": "1.1",
   "dependencies": [
