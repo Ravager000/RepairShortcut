@@ -4,7 +4,7 @@
   "title": "Repair Shortcut",
   "author": "Ravager000",
   "homepage": "https://github.com/Ravager000/RepairShortcut",
-  "description": "Infinite repair pack spawnable using shortcut \n\n Slitly faster than normal repairpack.",
+ "description": "Infinite repair pack spawnable using shortcut \n\n Slightly faster than normal repair-pack.",
   "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1"
