@@ -1,12 +1,12 @@
 {
   "name": "RepairShortcut",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Repair Shortcut",
   "author": "Ravager000",
   "homepage": "https://github.com/Ravager000/RepairShortcut",
  "description": "Infinite repair pack spawnable using shortcut \n\n Slightly faster than normal repair-pack.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base >= 1.1"
+    "base >= 1.1.100"
   ]
 }

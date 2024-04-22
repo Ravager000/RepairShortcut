@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2024-04-22
+  Features:
+    - Added Control input CONTROL + R.
+    - Construction bot can now repair multiple damaged entity using the repair tool.
+    - Added Sonic_Screw_Driver sound.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2024-03-16
   Features:
